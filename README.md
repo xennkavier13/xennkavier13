@@ -30,7 +30,7 @@
 
 ### 🌐 Connect with Me
 [<img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/discord.com/users/751291705055117321)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://instagram.com/@xennkavier)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">](https://instagram.com/xennkavier)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kenn.dabon@cit.edu)
 
 ---
