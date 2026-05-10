@@ -1,8 +1,8 @@
-# 👋 hi there, i am xennkavier! 
+# hi there, i am xennkavier! 
 
-### 🎓 3rd Year BSIT Student at CIT University 
-### 🎹 I make music sometimes
-### 🤣 that's/crazy
+### 3rd Year BSIT Student at CIT University 
+### I make music sometimes
+### that's/crazy
 
 ---
 
@@ -10,7 +10,6 @@
 
 **Languages & Frameworks**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
-**Tools & Creative**
 **Tools & Creative**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![FL Studio](https://img.shields.io/badge/FL%20Studio-FF4E00?style=for-the-badge&logo=fl-studio&logoColor=white)
@@ -34,8 +33,3 @@
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kenn.dabon@cit.edu)
 
 ---
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-[![](https://visitcount.itsvg.in/api?id=xennkavier13&icon=0&color=0)](https://visitcount.itsvg.in)
