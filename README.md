@@ -24,15 +24,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xennkavier13&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=xennkavier13&theme=synthwave&hide_border=false" />
-</p>
-
----
-
 ### Connect
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/751291705055117321)
