@@ -1,6 +1,6 @@
 # xennkavier
 
-3rd Year BSIT Student at CIT University &nbsp;·&nbsp; Developer &nbsp;·&nbsp; Sometimes Music
+3rd Year BSIT Student at CIT University &nbsp;&nbsp;·&nbsp;Sometimes Music
 
 ---
 
