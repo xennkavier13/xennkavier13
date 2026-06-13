@@ -51,7 +51,3 @@
 <img src="https://img.shields.io/badge/Project_Management_%2F_Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30" alt="Project Management / Agile" />
  
 ---
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xennkavier&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
