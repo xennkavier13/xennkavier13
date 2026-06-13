@@ -12,6 +12,14 @@
  
 </div>
 
+## About Me
+
+🎓 &nbsp; Bachelor of Science in Information Technology at **Cebu Institute of Technology – University** 
+ 
+🎯 &nbsp;Project Management · Frontend Development
+ 
+🏆 &nbsp;PhilNITS FE Certified
+
 ## Tech Stack / Skills
 
 <div align="center">
