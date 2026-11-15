@@ -1,60 +1,25 @@
-<div align="center">
+### `01 // ABOUT.DOC`
 
-# Kenn Xavier Dabon
- 
-**4th Year BSIT Student · CIT University · Cebu, Philippines**
- 
-*Sometimes code. Sometimes music.*
- 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/751291705055117321)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenn.dabon@cit.edu)
- 
-</div>
+**Kenn Xavier Dabon (`@xnnkvr`)** — BS Information Technology student at **CIT-U**.  
+Focused on **Frontend**, **Backend**, **Project Management**, and **Quality Assurance (QA)**.
 
-## About Me
+- **Currently building:** [**Ariadne**](https://marketplace.visualstudio.com/items?itemName=tallbreadstick.ariadne-extension-vscode) — a student-first Static Application Security Testing (SAST) extension for VS Code.
+- **Beyond the terminal:** Producing hip-hop, R&B, and indie tracks in **FL Studio**.
 
-🎓 &nbsp; Bachelor of Science in Information Technology at **Cebu Institute of Technology – University** 
- 
-🎯 &nbsp;Project Management · Frontend Development
- 
-🏆 &nbsp;PhilNITS FE Certified
-
-## Tech Stack / Skills
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" title="Java" />
-<img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
-<img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
-<img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python" />
-<img src="https://skillicons.dev/icons?i=c" height="40" alt="C" title="C" />
- 
 ---
- 
-### Frameworks & Libraries
- 
-<img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot" />
-<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
-<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
-<img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" title="Django" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
- 
+
+### `02 // SKILLS_&_TOOLS.SYS`
+
+| Directory | Loaded Modules |
+| :--- | :--- |
+| `/usr/bin/lang` | `Java` · `TypeScript` · `JavaScript` · `Python` · `C` · `Kotlin` · `HTML/CSS` |
+| `/sys/frameworks` | `Spring Boot` · `React` · `Next.js` · `Django` · `Tailwind CSS` |
+| `/opt/tools` | `Git` · `Postman` · `Jira` · `TestRail` · `Supabase` · `FL Studio` |
+
 ---
- 
-### Tools
- 
-<img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
-<img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" title="Supabase" />
- 
----
- 
-### Concepts
- 
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF6F00?style=for-the-badge&logo=thealgorithms&logoColor=white" height="30" alt="Data Structures & Algorithms" />
-<img src="https://img.shields.io/badge/Software_Design-8E44AD?style=for-the-badge&logo=azuredevops&logoColor=white" height="30" alt="Software Design" />
-<img src="https://img.shields.io/badge/Object--Oriented_Programming-2C3E50?style=for-the-badge&logo=abstract&logoColor=white" height="30" alt="OOP" />
-<img src="https://img.shields.io/badge/Project_Management_%2F_Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="30" alt="Project Management / Agile" />
- 
----
+
+### `03 // HYPERCARD_DIRECTORY`
+
+`[LinkedIn ↗](https://www.linkedin.com/in/kenn-xavier-dabon/)` 
+`[Email ✉](mailto:kennxavier15@gmail.com)` 
+`[xnnkvr OS Repo ↗](https://github.com/xennkavier13/xnnkvr)`
