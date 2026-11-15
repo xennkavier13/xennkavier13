@@ -1,10 +1,18 @@
+```text
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ [■] ═══════════════════════════════════  xnnkvr OS — System 1.0  ═════════════════════════════════ [_][✕]│
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ XNNKVR ROM // 512K                     USER: KENN XAVIER DABON                    ● OPEN TO OPPORTUNITIES│
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
 ### `01 // ABOUT.DOC`
 
-**Kenn Xavier Dabon (`@xnnkvr`)** — BS Information Technology student at **CIT-U**.  
+**Kenn Xavier Dabon (`@xennkavier`)** — BS Information Technology student at **CIT-U**.  
 Focused on **Frontend**, **Backend**, **Project Management**, and **Quality Assurance (QA)**.
 
-- **Currently building:** [**Ariadne**](https://marketplace.visualstudio.com/items?itemName=tallbreadstick.ariadne-extension-vscode) — a student-first Static Application Security Testing (SAST) extension for VS Code.
-- **Beyond the terminal:** Producing hip-hop, R&B, and indie tracks in **FL Studio**.
+- **Currently working on:** [**Ariadne**](https://marketplace.visualstudio.com/items?itemName=tallbreadstick.ariadne-extension-vscode) — a student-first Static Application Security Testing (SAST) extension for VS Code.
+- **Beyond the terminal:** Making beats in **FL Studio**.
 
 ---
 
